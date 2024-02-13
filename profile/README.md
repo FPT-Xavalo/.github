@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="frog.jpg">
+<img src="https://github.com/FPT-Xavalo/.github/blob/main/profile/frog.jpg" alt="Frog">
 
 | |  Subject  | Semester |
 | :--- | :---  |  :---  |
