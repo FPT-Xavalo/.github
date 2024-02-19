@@ -9,7 +9,7 @@
 | 3 | ✒ [**PRO192**](https://github.com/FPT-Xavalo/PRO192) | 2 |
 | 4 |✒ [**DBI202**](https://github.com/FPT-Xavalo/OSG202) | 3 |
 | 5 | ✒ [**LAB211**](https://github.com/FPT-Xavalo/LAB211) | 3 |
-| 6 |✒ [**DBI202**](https://github.com/FPT-Xavalo/DBI202) | 3 |
+| 6 |✒ [**CSD201**](https://github.com/FPT-Xavalo/CSD201) | 3 |
 | 7 |  ✒[**WED201c**](https://github.com/FPT-Xavalo/WED201c) | 3 |
 | 8 |✒ [**JPD113**](https://github.com/FPT-Xavalo/JPD113) | 3 |
 | 9 |✒ [**JPD123**](https://github.com/FPT-Xavalo/JPD123) | 4 |
